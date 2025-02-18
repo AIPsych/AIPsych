@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AIPsych
-- 👀 I’m interested in applying artificial intelligence technologies to the mental health industry.
+- 👀 I’m interested in applying artificial AI to the mental health industry.
 - 🌱 I’m currently learning how to find an excellent “AI Developer” and “NLP Engineer.”
 - 💞️ I’m looking to collaborate with a technical partner to bring this vision to life.
 - 📫 How to reach me: You can contact me through my email at selachan2015@gmail.com.
